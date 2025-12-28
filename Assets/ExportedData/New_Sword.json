@@ -1,0 +1,92 @@
+{
+  "Weapons": [
+    {
+      "Name": "WEAPON_SERPENTFANG_NAME",
+      "Damage": 18.0,
+      "Cooldown": 0.92,
+      "Range": 2.5,
+      "Type": "Thrust",
+      "Rarity": "Common",
+      "Cost": 110,
+      "Buffs": [
+        {"StatType": "AttackSpeed", "Value": 0.05, "BuffType": "Percentage"},
+        {"StatType": "MaxHealth", "Value": 10.0, "BuffType": "Flat"}
+      ]
+    },
+    {
+      "Name": "WEAPON_TITANSPEAR_NAME",
+      "Damage": 20.0,
+      "Cooldown": 0.88,
+      "Range": 2.5,
+      "Type": "Thrust",
+      "Rarity": "Common",
+      "Cost": 140,
+      "Buffs": [
+        {"StatType": "DamageMultiplier", "Value": 0.08, "BuffType": "Percentage"},
+        {"StatType": "Armor", "Value": 6.0, "BuffType": "Flat"}
+      ]
+    },
+    {
+      "Name": "WEAPON_BLOODPIERCE_NAME",
+      "Damage": 28.0,
+      "Cooldown": 0.80,
+      "Range": 2.7,
+      "Type": "Thrust",
+      "Rarity": "Uncommon",
+      "Cost": 370,
+      "Buffs": [
+        {"StatType": "CriticalChance", "Value": 0.12, "BuffType": "Percentage"},
+        {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"},
+        {"StatType": "MoveSpeed", "Value": 0.08, "BuffType": "Percentage"}
+      ]
+    },
+    {
+      "Name": "WEAPON_VOIDLANCE_NAME",
+      "Damage": 36.0,
+      "Cooldown": 0.75,
+      "Range": 2.9,
+      "Type": "Thrust",
+      "Rarity": "Rare",
+      "Cost": 700,
+      "Buffs": [
+        {"StatType": "CriticalChance", "Value": 0.15, "BuffType": "Percentage"},
+        {"StatType": "CriticalDamage", "Value": 0.22, "BuffType": "Percentage"},
+        {"StatType": "DamageMultiplier", "Value": 0.12, "BuffType": "Percentage"},
+        {"StatType": "AttackSpeed", "Value": 0.12, "BuffType": "Percentage"}
+      ]
+    },
+    {
+      "Name": "WEAPON_FROSTPIKE_NAME",
+      "Damage": 48.0,
+      "Cooldown": 0.68,
+      "Range": 3,
+      "Type": "Thrust",
+      "Rarity": "Epic",
+      "Cost": 1180,
+      "Buffs": [
+        {"StatType": "DamageMultiplier", "Value": 0.20, "BuffType": "Percentage"},
+        {"StatType": "AttackSpeed", "Value": 0.15, "BuffType": "Percentage"},
+        {"StatType": "Armor", "Value": 18.0, "BuffType": "Flat"},
+        {"StatType": "MaxHealth", "Value": 40.0, "BuffType": "Flat"},
+        {"StatType": "MoveSpeed", "Value": 0.12, "BuffType": "Percentage"}
+      ]
+    },
+    {
+      "Name": "WEAPON_EMBERSPEAR_NAME",
+      "Damage": 58.0,
+      "Cooldown": 0.62,
+      "Range": 3.2,
+      "Type": "Thrust",
+      "Rarity": "Legendary",
+      "Cost": 1650,
+      "Buffs": [
+        {"StatType": "DamageMultiplier", "Value": 0.25, "BuffType": "Percentage"},
+        {"StatType": "CriticalChance", "Value": 0.18, "BuffType": "Percentage"},
+        {"StatType": "CriticalDamage", "Value": 0.35, "BuffType": "Percentage"},
+        {"StatType": "AttackSpeed", "Value": 0.18, "BuffType": "Percentage"},
+        {"StatType": "MaxHealth", "Value": 50.0, "BuffType": "Flat"},
+        {"StatType": "Armor", "Value": 22.0, "BuffType": "Flat"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464a12f6bff850d49bfa2e7bf28546d5, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: Assembly-CSharp::MapData
+  MapName: Forest
+  Map: {fileID: 9098810708829304633, guid: 637ed7d77281bf84f983861b862e6fdf, type: 3}
+  Enemies:
+  - {fileID: 5797631095474707092, guid: b4d8ddd5047ce8b45a7c958489a4e49f, type: 3}
+  - {fileID: 3138733163614519236, guid: 4af4d9fdfdf30b84a947a15bb8faec3d, type: 3}
+  - {fileID: 2882722897585548378, guid: 2f89d46164adf8247a35c96176793d80, type: 3}
+  - {fileID: 8314138041356456771, guid: a66fe8e5334e59447bba0b9e58ad3a13, type: 3}
+  - {fileID: 2946364238139632183, guid: e2788b600ad7ca14c98cedfbf688344f, type: 3}
+  BossPrefab: {fileID: 213137728772392053, guid: c5d8fecc47e66c144a0fb63c9972a287, type: 3}

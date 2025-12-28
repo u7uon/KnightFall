@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: EmberforgeHammer
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_EMBERFORGEHAMMER_NAME
+  Damage: 23
+  Icon: {fileID: -6757302618356787778, guid: ca4ac1f037da3d144951832ba545d75d, type: 3}
+  Cooldown: 1.1
+  Range: 3
+  Type: 0
+  Rarity: 1
+  Cost: 221
+  Buffs:
+  - Type: 0
+    Value: 0.115200005
+    BuffType: 0
+  - Type: 5
+    Value: 9.6
+    BuffType: 1
+  - Type: 1
+    Value: -0.063999996
+    BuffType: 0
+  weaponPrefab: {fileID: 5688363277632920430, guid: 96bdc0068ed68bd4788c65f651ec0d3a, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

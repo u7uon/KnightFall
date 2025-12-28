@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: OblivionBlade
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_OBLIVIONBLADE_NAME
+  Damage: 30
+  Icon: {fileID: 2599903318216842590, guid: 3706ca2cf804e914cb3176ec6ab11455, type: 3}
+  Cooldown: 0.8
+  Range: 3.5
+  Type: 0
+  Rarity: 2
+  Cost: 420
+  Buffs:
+  - Type: 3
+    Value: 0.17999999
+    BuffType: 0
+  - Type: 1
+    Value: 0.09
+    BuffType: 0
+  - Type: 5
+    Value: 13.5
+    BuffType: 1
+  weaponPrefab: {fileID: 6171306137876250929, guid: d3bef166866d2e044a76362ee38aeda1, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

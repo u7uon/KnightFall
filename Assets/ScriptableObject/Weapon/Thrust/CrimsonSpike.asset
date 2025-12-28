@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: CrimsonSpike
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_CRIMSONSPIKE_NAME
+  Damage: 17
+  Icon: {fileID: 489603229818355371, guid: 2e408a04ecc2863438ef70f607dc27a7, type: 3}
+  Cooldown: 0.5
+  Range: 2.7
+  Type: 1
+  Rarity: 1
+  Cost: 221
+  Buffs:
+  - Type: 2
+    Value: 0.08
+    BuffType: 0
+  - Type: 4
+    Value: 0.031999998
+    BuffType: 0
+  weaponPrefab: {fileID: 2499432477563221968, guid: a0cbdd20cf70c764abe7539ee10b6a2b, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

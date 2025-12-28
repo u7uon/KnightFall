@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cee931299c2b643a80bc09a17a695d, type: 3}
+  m_Name: ITEM_ROYALCROWN_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  Name: ITEM_ROYALCROWN_NAME
+  Icon: {fileID: -4721301349423857295, guid: 17098240cf39303418b03917971526e9, type: 3}
+  Rarity: 4
+  Price: 1485
+  Description: 
+  StatModifiers:
+  - Type: 14
+    Value: 0.29
+    BuffType: 0
+  - Type: 13
+    Value: 0.18
+    BuffType: 0
+  - Type: 11
+    Value: 21.6
+    BuffType: 1
+  - Type: 7
+    Value: 25.2
+    BuffType: 1
+  SpecialEffect:
+    EffectName: 
+    Description: 
+  Category: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464a12f6bff850d49bfa2e7bf28546d5, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: Assembly-CSharp::MapData
+  MapName: Desert
+  Map: {fileID: 4746627651544702531, guid: 00d0e0a1918526f4884a20ed01b87073, type: 3}
+  Enemies:
+  - {fileID: 5797631095474707092, guid: b4d8ddd5047ce8b45a7c958489a4e49f, type: 3}
+  - {fileID: 4539188320927926154, guid: f95ec9e509d86d140a538d6be87331fc, type: 3}
+  - {fileID: 2860181130919075075, guid: 5c3ff9a031c7a864b93a2acbf88f854e, type: 3}
+  - {fileID: 1594254054634631772, guid: f7aa3cda2e6b6ab418ff629367266144, type: 3}
+  - {fileID: 2946364238139632183, guid: e2788b600ad7ca14c98cedfbf688344f, type: 3}
+  BossPrefab: {fileID: 5716746856313750639, guid: 5cbca4d3e98a13f47a5048327309bb42, type: 3}

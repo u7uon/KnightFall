@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_CRIMSONFANG_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_CRIMSONFANG_NAME
+  Damage: 17
+  Icon: {fileID: -5846896327076309707, guid: 2f9963159168d8e4c9e37a70f78edd95, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 2
+  Rarity: 3
+  Cost: 800
+  Buffs:
+  - Type: 4
+    Value: 0.08
+    BuffType: 0
+  - Type: 1
+    Value: 0.135
+    BuffType: 0
+  - Type: 3
+    Value: 0.18
+    BuffType: 0
+  - Type: 12
+    Value: 0.9
+    BuffType: 1
+  weaponPrefab: {fileID: 3810443411855045080, guid: 6f2b9e6a32c77aa4caa7958da996b317, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cee931299c2b643a80bc09a17a695d, type: 3}
+  m_Name: ITEM_POISON_FLASK_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  Name: ITEM_POISONFLASK_NAME
+  Icon: {fileID: 321289419368864325, guid: d5ad1867d06a56e4d9609e545dcdeda0, type: 3}
+  Rarity: 2
+  Price: 240
+  Description: 
+  StatModifiers:
+  - Type: 0
+    Value: 0.14
+    BuffType: 0
+  - Type: 4
+    Value: 0.06
+    BuffType: 0
+  - Type: 8
+    Value: -0.3
+    BuffType: 1
+  SpecialEffect:
+    EffectName: 
+    Description: 
+  Category: 1

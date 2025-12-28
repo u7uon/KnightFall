@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_BLOODPIERCE_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_BLOODPIERCE_NAME
+  Damage: 16.8
+  Icon: {fileID: 772149747900132847, guid: 8005990fcf312c04fb42f610bb21a3a9, type: 3}
+  Cooldown: 0.8
+  Range: 2.7
+  Type: 1
+  Rarity: 1
+  Cost: 221
+  Buffs:
+  - Type: 2
+    Value: 0.096
+    BuffType: 0
+  - Type: 1
+    Value: 0.08
+    BuffType: 0
+  - Type: 10
+    Value: 0.063999996
+    BuffType: 0
+  weaponPrefab: {fileID: 8146362601220971300, guid: f3c89d39713c6d24083b44c2313294e9, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

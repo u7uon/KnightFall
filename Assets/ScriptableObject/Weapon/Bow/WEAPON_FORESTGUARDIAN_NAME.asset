@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_FORESTGUARDIAN_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_FORESTGUARDIAN_NAME
+  Damage: 8
+  Icon: {fileID: -360276262095990378, guid: 5464fa8823098c04d863f57c7a652ee3, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 2
+  Rarity: 0
+  Cost: 125
+  Buffs:
+  - Type: 1
+    Value: 0.063999996
+    BuffType: 0
+  - Type: 12
+    Value: 0.48000002
+    BuffType: 1
+  weaponPrefab: {fileID: 1605057229244149008, guid: 08dbb410119965e40b3357b8549b3ef9, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

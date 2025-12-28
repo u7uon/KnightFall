@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: Darkmoon
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_DARKMOON_NAME
+  Damage: 32
+  Icon: {fileID: 4235201693321340189, guid: e84675752ffd7d242ad095ef23331239, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 2
+  Rarity: 4
+  Cost: 1350
+  Buffs:
+  - Type: 1
+    Value: 0.198
+    BuffType: 0
+  - Type: 0
+    Value: 0.18
+    BuffType: 0
+  - Type: 2
+    Value: 0.135
+    BuffType: 0
+  - Type: 12
+    Value: 1.35
+    BuffType: 1
+  weaponPrefab: {fileID: 2209878456883436218, guid: 26768f159ec6c7648b65a4b6977aa796, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

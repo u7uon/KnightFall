@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: HeavenlyFire
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_HEAVENLYFIRE_NAME
+  Damage: 30
+  Icon: {fileID: -2563651094743419182, guid: 85203c6bcf73dbf458f2393e8fc35e86, type: 3}
+  Cooldown: 1
+  Range: 6
+  Type: 2
+  Rarity: 4
+  Cost: 2000
+  Buffs:
+  - Type: 3
+    Value: 0.1
+  - Type: 1
+    Value: 0.15
+  weaponPrefab: {fileID: 3792072055280247932, guid: dcc955a59a51d9e4592476a2d7386e9a, type: 3}
+  specialEffect:
+    EffectName: EFFECT_HEAVENLYFIRE_NAME
+    Description: EFFECT_HEAVENLYFIRE_DES
+  effects:
+  - type: 1
+    value: 0.3
+    duration: 2
+    tickInterval: 0.5
+    isStackable: 1
+    maxStacks: 2

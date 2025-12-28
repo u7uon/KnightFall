@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cee931299c2b643a80bc09a17a695d, type: 3}
+  m_Name: ITEM_FLAMEESSENCE_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  Name: ITEM_FLAMEESSENCE_NAME
+  Icon: {fileID: -8268590015664235487, guid: d2de1599ae5fd9447a92a9aa75c09a3e, type: 3}
+  Rarity: 0
+  Price: 160
+  Description: 
+  StatModifiers:
+  - Type: 0
+    Value: 0.07
+    BuffType: 0
+  - Type: 2
+    Value: 0.03
+    BuffType: 0
+  - Type: 6
+    Value: -2.9
+    BuffType: 1
+  SpecialEffect:
+    EffectName: 
+    Description: 
+  Category: 1

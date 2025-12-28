@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_CELESTIALSWORD_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_CELESTIALSWORD_NAME
+  Damage: 17
+  Icon: {fileID: 8874254879348466993, guid: fbe5083b9d9ccaa41be6ed51ac07a0ab, type: 3}
+  Cooldown: 0.82
+  Range: 3.4
+  Type: 0
+  Rarity: 1
+  Cost: 221
+  Buffs:
+  - Type: 0
+    Value: 0.0768
+    BuffType: 0
+  - Type: 2
+    Value: 0.063999996
+    BuffType: 0
+  - Type: 8
+    Value: 0.48000002
+    BuffType: 1
+  weaponPrefab: {fileID: 6261894495715344362, guid: 67bd1512b71137041910d57a34f9cf20, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

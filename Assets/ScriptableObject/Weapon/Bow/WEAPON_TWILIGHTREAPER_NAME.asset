@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_TWILIGHTREAPER_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_TWILIGHTREAPER_NAME
+  Damage: 15
+  Icon: {fileID: 2952482376178455717, guid: e0b60d65116e62149b0b8e49fc30fe5f, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 0
+  Rarity: 2
+  Cost: 750
+  Buffs:
+  - Type: 2
+    Value: 0.12
+    BuffType: 0
+  - Type: 3
+    Value: 0.15
+    BuffType: 0
+  - Type: 0
+    Value: 0.12
+    BuffType: 0
+  - Type: 12
+    Value: 0.8
+    BuffType: 0
+  weaponPrefab: {fileID: 1940839494107685983, guid: e725d21c0613c2f469c5e6d55d4a261c, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

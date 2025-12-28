@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: AquaBlade
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_AQUABLADE_NAME
+  Damage: 14
+  Icon: {fileID: 6608977860917380928, guid: 93e7b3423aa8f874280aac63362d6f1d, type: 3}
+  Cooldown: 0.7
+  Range: 2.1
+  Type: 1
+  Rarity: 1
+  Cost: 100
+  Buffs: []
+  weaponPrefab: {fileID: 5535292867437609243, guid: add9cd7515025f54bbbabb40643ab77b, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

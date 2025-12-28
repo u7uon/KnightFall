@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: VoidReaver
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_VOIDREAVER_NAME
+  Damage: 49
+  Icon: {fileID: 3693051278056455012, guid: f0d9018efee13d14c976b544df156b03, type: 3}
+  Cooldown: 0.65
+  Range: 4
+  Type: 0
+  Rarity: 4
+  Cost: 1418
+  Buffs:
+  - Type: 0
+    Value: 0.2016
+    BuffType: 0
+  - Type: 2
+    Value: 0.18
+    BuffType: 0
+  - Type: 3
+    Value: 0.28800002
+    BuffType: 0
+  - Type: 1
+    Value: 0.107999995
+    BuffType: 0
+  - Type: 5
+    Value: 22.5
+    BuffType: 1
+  weaponPrefab: {fileID: 8656800686652671389, guid: eb640967e6a211d469e460204878820b, type: 3}
+  specialEffect:
+    EffectName: EFFECT_VOIDREAVER_NAME
+    Description: EFFECT_VOIDREAVER_DES
+  effects:
+  - type: 2
+    value: 0.1
+    duration: 2
+    tickInterval: 0.5
+    isStackable: 0
+    maxStacks: 0

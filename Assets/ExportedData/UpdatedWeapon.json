@@ -1,0 +1,410 @@
+{
+    "ThrustWeapons": {
+        "TotalCount": 10,
+        "Weapons": [
+            {
+                "Name": "WEAPON_RUSTFANGKNIFE_NAME",
+                "Damage": 8.0,
+                "Cooldown": 0.55,
+                "Range": 1.8,
+                "Type": "Thrust",
+                "Rarity": "Common",
+                "Cost": 60,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.05, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_BRONZEPIERCER_NAME",
+                "Damage": 9.0,
+                "Cooldown": 0.60,
+                "Range": 1.9,
+                "Type": "Thrust",
+                "Rarity": "Common",
+                "Cost": 80,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.04, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_AQUABLADE_NAME",
+                "Damage": 12.0,
+                "Cooldown": 0.50,
+                "Range": 2.0,
+                "Type": "Thrust",
+                "Rarity": "Uncommon",
+                "Cost": 180,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "CriticalChance", "Value": 0.06, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_STEELDAGGER_NAME",
+                "Damage": 13.0,
+                "Cooldown": 0.52,
+                "Range": 2.1,
+                "Type": "Thrust",
+                "Rarity": "Uncommon",
+                "Cost": 220,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.08, "BuffType": "Percentage"},
+                    {"StatType": "Armor", "Value": 8.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_CRIMSONSPIKE_NAME",
+                "Damage": 14.0,
+                "Cooldown": 0.50,
+                "Range": 2.2,
+                "Type": "Thrust",
+                "Rarity": "Uncommon",
+                "Cost": 260,
+                "Buffs": [
+                    {"StatType": "CriticalChance", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "LifeSteal", "Value": 0.04, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_NIGHTSHADEKNIFE_NAME",
+                "Damage": 15.0,
+                "Cooldown": 0.48,
+                "Range": 2.3,
+                "Type": "Thrust",
+                "Rarity": "Uncommon",
+                "Cost": 280,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "DodgeChance", "Value": 0.06, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_INFERNODAGGER_NAME",
+                "Damage": 20.0,
+                "Cooldown": 0.42,
+                "Range": 2.5,
+                "Type": "Thrust",
+                "Rarity": "Rare",
+                "Cost": 550,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "CriticalDamage", "Value": 0.20, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_ROSEFANG_NAME",
+                "Damage": 26.0,
+                "Cooldown": 0.38,
+                "Range": 2.7,
+                "Type": "Thrust",
+                "Rarity": "Epic",
+                "Cost": 900,
+                "Buffs": [
+                    {"StatType": "CriticalChance", "Value": 0.18, "BuffType": "Percentage"},
+                    {"StatType": "CriticalDamage", "Value": 0.30, "BuffType": "Percentage"},
+                    {"StatType": "LifeSteal", "Value": 0.08, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_VENOMEDGE_NAME",
+                "Damage": 28.0,
+                "Cooldown": 0.36,
+                "Range": 2.8,
+                "Type": "Thrust",
+                "Rarity": "Epic",
+                "Cost": 950,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.20, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "LifeSteal", "Value": 0.10, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_VOIDSTINGER_NAME",
+                "Damage": 35.0,
+                "Cooldown": 0.32,
+                "Range": 3.0,
+                "Type": "Thrust",
+                "Rarity": "Legendary",
+                "Cost": 1600,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.25, "BuffType": "Percentage"},
+                    {"StatType": "CriticalChance", "Value": 0.22, "BuffType": "Percentage"},
+                    {"StatType": "CriticalDamage", "Value": 0.40, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.18, "BuffType": "Percentage"}
+                ]
+            }
+        ]
+    },
+
+    "BowWeapons": {
+        "TotalCount": 5,
+        "Weapons": [
+            {
+                "Name": "WEAPON_THUNDERBOW_NAME",
+                "Damage": 14.0,
+                "Cooldown": 0.70,
+                "Range": 5.5,
+                "Type": "Bow",
+                "Rarity": "Common",
+                "Cost": 300,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.08, "BuffType": "Percentage"},
+                    {"StatType": "PickupRange", "Value": 0.5, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_JADEBOW_NAME",
+                "Damage": 19.0,
+                "Cooldown": 0.72,
+                "Range": 6.5,
+                "Type": "Bow",
+                "Rarity": "Rare",
+                "Cost": 650,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "PickupRange", "Value": 0.8, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_SPIRITBOW_NAME",
+                "Damage": 26.0,
+                "Cooldown": 0.65,
+                "Range": 7.5,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 1500,
+                "Buffs": [
+                    {"StatType": "LifeSteal", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "PickupRange", "Value": 1.2, "BuffType": "Flat"},
+                    {"StatType": "MaxHealth", "Value": 25.0, "BuffType": "Flat"}
+                ],
+                "Effects": [
+                    {"EffectType": "Slow", "Value": 0.35, "Duration": 2.0, "TickRate": 0.0}
+                ]
+            },
+            {
+                "Name": "WEAPON_HEAVENLYFIRE_NAME",
+                "Damage": 30.0,
+                "Cooldown": 0.62,
+                "Range": 7.5,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 1700,
+                "Buffs": [
+                    {"StatType": "CriticalDamage", "Value": 0.30, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.18, "BuffType": "Percentage"},
+                    {"StatType": "DamageMultiplier", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "PickupRange", "Value": 1.2, "BuffType": "Flat"}
+                ],
+                "Effects": [
+                    {"EffectType": "Burn", "Value": 0.35, "Duration": 3.5, "TickRate": 0.5}
+                ]
+            },
+            {
+                "Name": "WEAPON_DARKMOON_NAME",
+                "Damage": 32.0,
+                "Cooldown": 0.65,
+                "Range": 8.0,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 1900,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.22, "BuffType": "Percentage"},
+                    {"StatType": "DamageMultiplier", "Value": 0.20, "BuffType": "Percentage"},
+                    {"StatType": "CriticalChance", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "PickupRange", "Value": 1.5, "BuffType": "Flat"}
+                ],
+                "Effects": [
+                    {"EffectType": "Poison", "Value": 0.35, "Duration": 3.0, "TickRate": 0.2}
+                ]
+            }
+        ]
+    },
+
+    "SwordWeapons": {
+        "TotalCount": 13,
+        "Weapons": [
+            {
+                "Name": "WEAPON_OBSIDIANEDGE_NAME",
+                "Damage": 20.0,
+                "Cooldown": 1.05,
+                "Range": 2.8,
+                "Type": "Sword",
+                "Rarity": "Common",
+                "Cost": 100,
+                "Buffs": [
+                    {"StatType": "MaxHealth", "Value": 15.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_FROSTPIERCER_NAME",
+                "Damage": 22.0,
+                "Cooldown": 1.00,
+                "Range": 2.9,
+                "Type": "Sword",
+                "Rarity": "Common",
+                "Cost": 130,
+                "Buffs": [
+                    {"StatType": "Armor", "Value": 8.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_ABYSSALSABE_NAME",
+                "Damage": 24.0,
+                "Cooldown": 0.95,
+                "Range": 3.0,
+                "Type": "Sword",
+                "Rarity": "Common",
+                "Cost": 160,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.06, "BuffType": "Percentage"},
+                    {"StatType": "MoveSpeed", "Value": 0.04, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_SOLAREDGE_NAME",
+                "Damage": 28.0,
+                "Cooldown": 0.88,
+                "Range": 3.2,
+                "Type": "Sword",
+                "Rarity": "Uncommon",
+                "Cost": 320,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "MaxHealth", "Value": 20.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_AMBERLIGHTSWORD_NAME",
+                "Damage": 30.0,
+                "Cooldown": 0.85,
+                "Range": 3.3,
+                "Type": "Sword",
+                "Rarity": "Uncommon",
+                "Cost": 360,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "HealthRegen", "Value": 0.8, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_EMBERFORGEHAMMER_NAME",
+                "Damage": 42.0,
+                "Cooldown": 1.10,
+                "Range": 2.7,
+                "Type": "Sword",
+                "Rarity": "Uncommon",
+                "Cost": 400,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.18, "BuffType": "Percentage"},
+                    {"StatType": "Armor", "Value": 12.0, "BuffType": "Flat"},
+                    {"StatType": "AttackSpeed", "Value": -0.08, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_SHADOWLINEDAGGER_NAME",
+                "Damage": 26.0,
+                "Cooldown": 0.72,
+                "Range": 2.9,
+                "Type": "Sword",
+                "Rarity": "Uncommon",
+                "Cost": 380,
+                "Buffs": [
+                    {"StatType": "CriticalChance", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "DodgeChance", "Value": 0.10, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_CRIMSONFANG_NAME",
+                "Damage": 38.0,
+                "Cooldown": 0.78,
+                "Range": 3.5,
+                "Type": "Sword",
+                "Rarity": "Rare",
+                "Cost": 680,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.15, "BuffType": "Percentage"},
+                    {"StatType": "LifeSteal", "Value": 0.08, "BuffType": "Percentage"},
+                    {"StatType": "MaxHealth", "Value": 30.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_OBLIVIONBLADE_NAME",
+                "Damage": 40.0,
+                "Cooldown": 0.80,
+                "Range": 3.5,
+                "Type": "Sword",
+                "Rarity": "Rare",
+                "Cost": 720,
+                "Buffs": [
+                    {"StatType": "CriticalDamage", "Value": 0.25, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.10, "BuffType": "Percentage"},
+                    {"StatType": "Armor", "Value": 15.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_TWILIGHTSCIMITAR_NAME",
+                "Damage": 42.0,
+                "Cooldown": 0.72,
+                "Range": 3.6,
+                "Type": "Sword",
+                "Rarity": "Rare",
+                "Cost": 760,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.18, "BuffType": "Percentage"},
+                    {"StatType": "CriticalChance", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "MoveSpeed", "Value": 0.10, "BuffType": "Percentage"}
+                ]
+            },
+            {
+                "Name": "WEAPON_ECLIPSESABER_NAME",
+                "Damage": 52.0,
+                "Cooldown": 0.70,
+                "Range": 3.8,
+                "Type": "Sword",
+                "Rarity": "Epic",
+                "Cost": 1150,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.22, "BuffType": "Percentage"},
+                    {"StatType": "CriticalDamage", "Value": 0.30, "BuffType": "Percentage"},
+                    {"StatType": "MaxHealth", "Value": 45.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_VERDANTEDGE_NAME",
+                "Damage": 54.0,
+                "Cooldown": 0.68,
+                "Range": 3.8,
+                "Type": "Sword",
+                "Rarity": "Epic",
+                "Cost": 1200,
+                "Buffs": [
+                    {"StatType": "HealthRegen", "Value": 2.0, "BuffType": "Flat"},
+                    {"StatType": "LifeSteal", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "DamageMultiplier", "Value": 0.18, "BuffType": "Percentage"},
+                    {"StatType": "MaxHealth", "Value": 50.0, "BuffType": "Flat"}
+                ]
+            },
+            {
+                "Name": "WEAPON_VOIDREAVER_NAME",
+                "Damage": 62.0,
+                "Cooldown": 0.65,
+                "Range": 4.0,
+                "Type": "Sword",
+                "Rarity": "Legendary",
+                "Cost": 1700,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.28, "BuffType": "Percentage"},
+                    {"StatType": "CriticalChance", "Value": 0.20, "BuffType": "Percentage"},
+                    {"StatType": "CriticalDamage", "Value": 0.40, "BuffType": "Percentage"},
+                    {"StatType": "AttackSpeed", "Value": 0.12, "BuffType": "Percentage"},
+                    {"StatType": "Armor", "Value": 25.0, "BuffType": "Flat"}
+                ]
+            }
+        ]
+    }
+}

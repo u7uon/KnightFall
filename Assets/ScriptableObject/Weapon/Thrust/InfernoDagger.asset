@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: InfernoDagger
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_INFERNODAGGER_NAME
+  Damage: 25
+  Icon: {fileID: -3241474543216588292, guid: e59e2abe7b576dc4ca38d8bc7b63730c, type: 3}
+  Cooldown: 0.42
+  Range: 2.7
+  Type: 1
+  Rarity: 2
+  Cost: 420
+  Buffs:
+  - Type: 0
+    Value: 0.108
+    BuffType: 0
+  - Type: 3
+    Value: 0.14400001
+    BuffType: 0
+  - Type: 1
+    Value: 0.09
+    BuffType: 0
+  weaponPrefab: {fileID: 8824916661194046532, guid: 20444a31a679e0d4689c71cd7718d775, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

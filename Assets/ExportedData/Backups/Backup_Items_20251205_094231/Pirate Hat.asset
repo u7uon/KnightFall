@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cee931299c2b643a80bc09a17a695d, type: 3}
+  m_Name: Pirate Hat
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  Name: ITEM_PIRATEHAT_NAME
+  Icon: {fileID: 3262126903026323885, guid: b49595be09bca864eb2003435d6ea919, type: 3}
+  Rarity: 0
+  Price: 70
+  Description: ITEM_ITEM_PIRATEHAT_NAME_DESC
+  StatModifiers:
+  - Type: 14
+    Value: 0.3
+  - Type: 11
+    Value: 0.1
+  - Type: 5
+    Value: -0.05
+  SpecialEffect:
+    EffectName: 
+    Description: 
+  Category: 1

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: VenomEdge
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_VENOMEDGE_NAME
+  Damage: 22.4
+  Icon: {fileID: 5377674536846410091, guid: fa9d69597a78c02409d580bf79c6385c, type: 3}
+  Cooldown: 0.36
+  Range: 2.7
+  Type: 1
+  Rarity: 3
+  Cost: 840
+  Buffs:
+  - Type: 0
+    Value: 0.14400001
+    BuffType: 0
+  - Type: 1
+    Value: 0.135
+    BuffType: 0
+  - Type: 4
+    Value: 0.08
+    BuffType: 0
+  weaponPrefab: {fileID: -8180068591578465057, guid: 50c3d1e09954fd243ad4d67147db2dc5, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

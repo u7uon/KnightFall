@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: Frostpiercer
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_FROSTPIERCER_NAME
+  Damage: 17
+  Icon: {fileID: -2414212961066028434, guid: aafded3e49b799b48acf1eba4317e1b7, type: 3}
+  Cooldown: 1.15
+  Range: 3
+  Type: 0
+  Rarity: 0
+  Cost: 130
+  Buffs: []
+  weaponPrefab: {fileID: -3562969135695097393, guid: 51286dfc697a8404c80cc9c417dfdf65, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

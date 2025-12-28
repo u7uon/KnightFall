@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_VOIDWEAVER_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_VOIDWEAVER_NAME
+  Damage: 13
+  Icon: {fileID: -6982104778697299700, guid: 6b7a731729f5d0e4086ede0613abbc3e, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 0
+  Rarity: 1
+  Cost: 400
+  Buffs:
+  - Type: 0
+    Value: 0.1
+    BuffType: 0
+  - Type: 2
+    Value: 0.09
+    BuffType: 0
+  - Type: 1
+    Value: 0.11
+    BuffType: 0
+  - Type: 12
+    Value: 0.7
+    BuffType: 0
+  weaponPrefab: {fileID: 4356533129404200990, guid: 57439dea66c663a4bad8fe4c61ecdb64, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

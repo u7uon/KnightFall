@@ -1,0 +1,330 @@
+{
+    "TotalCount": 30,
+    "FilteredCategory": "Accessory",
+    "Items": [
+        {
+            "Name": "ITEM_HEALTHPOTION_NAME",
+            "Price": 60,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "HealthRegen", "Value": 0.6, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 10.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_PIRATEHAT_NAME",
+            "Price": 65,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "GoldMultiplier", "Value": 0.15, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 6.0, "BuffType": "Flat"},
+                {"StatType": "Armor", "Value": -3.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_WOODENSHIELD_NAME",
+            "Price": 70,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "Armor", "Value": 8.0, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 8.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_LEATHERGLOVES_NAME",
+            "Price": 75,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "AttackSpeed", "Value": 0.06, "BuffType": "Percentage"},
+                {"StatType": "DamageMultiplier", "Value": 0.04, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_IRONRING_NAME",
+            "Price": 80,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.06, "BuffType": "Percentage"},
+                {"StatType": "Armor", "Value": 5.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_COPPERCOIN_NAME",
+            "Price": 70,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "GoldMultiplier", "Value": 0.12, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 5.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_SIMPLECHARM_NAME",
+            "Price": 75,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "MagicResist", "Value": 6.0, "BuffType": "Flat"},
+                {"StatType": "Luck", "Value": 4.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_BANDAGE_NAME",
+            "Price": 65,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "HealthRegen", "Value": 0.5, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 8.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_STONEPENDANT_NAME",
+            "Price": 80,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "Armor", "Value": 6.0, "BuffType": "Flat"},
+                {"StatType": "MagicResist", "Value": 4.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_WOODENTALISMAN_NAME",
+            "Price": 70,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "MaxHealth", "Value": 10.0, "BuffType": "Flat"},
+                {"StatType": "HealthRegen", "Value": 0.4, "BuffType": "Flat"}
+            ]
+        },
+        
+        {
+            "Name": "ITEM_ENCHANTEDDAGGER_NAME",
+            "Price": 140,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.10, "BuffType": "Percentage"},
+                {"StatType": "AttackSpeed", "Value": 0.08, "BuffType": "Percentage"},
+                {"StatType": "CriticalChance", "Value": 0.05, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_ANCIENTKEY_NAME",
+            "Price": 150,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "Luck", "Value": 12.0, "BuffType": "Flat"},
+                {"StatType": "GoldMultiplier", "Value": 0.12, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_MANAPOTION_NAME",
+            "Price": 155,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "AttackSpeed", "Value": 0.12, "BuffType": "Percentage"},
+                {"StatType": "CriticalChance", "Value": 0.08, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_LUCKYCOIN_NAME",
+            "Price": 160,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "Luck", "Value": 15.0, "BuffType": "Flat"},
+                {"StatType": "GoldMultiplier", "Value": 0.15, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_ANCIENTTORCH_NAME",
+            "Price": 165,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.12, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 10.0, "BuffType": "Flat"},
+                {"StatType": "AttackSpeed", "Value": 0.06, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_SILVERRING_NAME",
+            "Price": 145,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "CriticalChance", "Value": 0.10, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 8.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_STEELARMOR_NAME",
+            "Price": 170,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "Armor", "Value": 15.0, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 18.0, "BuffType": "Flat"}
+            ]
+        },
+
+        {
+            "Name": "ITEM_ANCIENTAMULET_NAME",
+            "Price": 230,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "MagicResist", "Value": 15.0, "BuffType": "Flat"},
+                {"StatType": "HealthRegen", "Value": 0.8, "BuffType": "Flat"},
+                {"StatType": "DodgeChance", "Value": 0.08, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_NATUREELIXIR_NAME",
+            "Price": 240,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "HealthRegen", "Value": 1.2, "BuffType": "Flat"},
+                {"StatType": "MagicResist", "Value": 12.0, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 25.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_GOLDENRING_NAME",
+            "Price": 250,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "GoldMultiplier", "Value": 0.22, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 18.0, "BuffType": "Flat"},
+                {"StatType": "ExpMultiplier", "Value": 0.12, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_POISONFLASK_NAME",
+            "Price": 255,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.16, "BuffType": "Percentage"},
+                {"StatType": "LifeSteal", "Value": 0.08, "BuffType": "Percentage"},
+                {"StatType": "HealthRegen", "Value": -0.3, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_MAGICSCROLL_NAME",
+            "Price": 260,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.16, "BuffType": "Percentage"},
+                {"StatType": "MagicResist", "Value": 12.0, "BuffType": "Flat"},
+                {"StatType": "Luck", "Value": 10.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_FLAMEESSENCE_NAME",
+            "Price": 270,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.18, "BuffType": "Percentage"},
+                {"StatType": "CriticalChance", "Value": 0.12, "BuffType": "Percentage"},
+                {"StatType": "MagicResist", "Value": -8.0, "BuffType": "Flat"}
+            ]
+        },
+
+        {
+            "Name": "ITEM_FLINTLOCKPISTOL_NAME",
+            "Price": 340,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "DamageMultiplier", "Value": 0.24, "BuffType": "Percentage"},
+                {"StatType": "CriticalChance", "Value": 0.14, "BuffType": "Percentage"},
+                {"StatType": "AttackSpeed", "Value": -0.10, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_HOLYWATER_NAME",
+            "Price": 350,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "MagicResist", "Value": 22.0, "BuffType": "Flat"},
+                {"StatType": "Armor", "Value": 18.0, "BuffType": "Flat"},
+                {"StatType": "HealthRegen", "Value": 1.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_DARKCHARM_NAME",
+            "Price": 360,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "CriticalDamage", "Value": 0.32, "BuffType": "Percentage"},
+                {"StatType": "LifeSteal", "Value": 0.12, "BuffType": "Percentage"},
+                {"StatType": "MaxHealth", "Value": -18.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_EMERALDPENDANT_NAME",
+            "Price": 370,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "HealthRegen", "Value": 1.6, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 40.0, "BuffType": "Flat"},
+                {"StatType": "Luck", "Value": 18.0, "BuffType": "Flat"},
+                {"StatType": "MagicResist", "Value": 15.0, "BuffType": "Flat"}
+            ]
+        },
+
+        {
+            "Name": "ITEM_SHADOWSHARD_NAME",
+            "Price": 550,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "CriticalChance", "Value": 0.25, "BuffType": "Percentage"},
+                {"StatType": "CriticalDamage", "Value": 0.40, "BuffType": "Percentage"},
+                {"StatType": "DamageMultiplier", "Value": 0.22, "BuffType": "Percentage"},
+                {"StatType": "MaxHealth", "Value": -30.0, "BuffType": "Flat"}
+            ]
+        },
+        {
+            "Name": "ITEM_PHOENIXFEATHER_NAME",
+            "Price": 580,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "HealthRegen", "Value": 2.5, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 60.0, "BuffType": "Flat"},
+                {"StatType": "MagicResist", "Value": 25.0, "BuffType": "Flat"},
+                {"StatType": "DamageMultiplier", "Value": 0.12, "BuffType": "Percentage"}
+            ]
+        },
+        {
+            "Name": "ITEM_ROYALCROWN_NAME",
+            "Price": 650,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "StatModifiers": [
+                {"StatType": "GoldMultiplier", "Value": 0.40, "BuffType": "Percentage"},
+                {"StatType": "ExpMultiplier", "Value": 0.25, "BuffType": "Percentage"},
+                {"StatType": "Luck", "Value": 30.0, "BuffType": "Flat"},
+                {"StatType": "MaxHealth", "Value": 35.0, "BuffType": "Flat"}
+            ]
+        }
+    ]
+}

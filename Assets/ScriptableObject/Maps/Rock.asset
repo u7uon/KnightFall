@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464a12f6bff850d49bfa2e7bf28546d5, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: Assembly-CSharp::MapData
+  MapName: Rock
+  Map: {fileID: 4844556805802071863, guid: 51ce4161ecfe4a74f8c58952f32a8853, type: 3}
+  Enemies:
+  - {fileID: 195270072626178581, guid: de98d669ade00f742abeef56bdb9bbc1, type: 3}
+  - {fileID: 3138733163614519236, guid: 4af4d9fdfdf30b84a947a15bb8faec3d, type: 3}
+  - {fileID: 8075385532659167352, guid: f78a1c72edf23d449aa6ae6329eba420, type: 3}
+  - {fileID: 5233115626343549509, guid: 9bd2ed6f0286b7a44b17d37fb8d28d13, type: 3}
+  - {fileID: 2946364238139632183, guid: e2788b600ad7ca14c98cedfbf688344f, type: 3}
+  BossPrefab: {fileID: -4720392450781858845, guid: 0fce3846a0a92154792eeae9cd3a6784, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba26e80f2ec939f46b9ca2e51779964c, type: 3}
+  m_Name: SwordMan
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
+  Name: CLASS_SWORDMAN_NAME
+  Description: CLASS_SWORDMAN_DESCRIPTION
+  Icon: {fileID: -6926107399976158817, guid: 5b3637bf8475e224299bb7df9b24acf7, type: 3}
+  characterPrefab: {fileID: 7577705962638824094, guid: d23b022aa6138d046ad6b0509c0740b5, type: 3}
+  damageMultiplier: 1
+  AttackSpeed: 1
+  CriticalChance: 0.05
+  CriticalDamage: 1.5
+  LifeSteal: 0
+  Armor: 5
+  MagicResist: 10
+  MaxHealth: 100
+  HealthRegen: 0.1
+  DodgeChance: 0
+  MoveSpeed: 4.7
+  Luck: 0
+  PickupRange: 1
+  ExpMultiplier: 1
+  GoldMultiplier: 1
+  Class: 0

@@ -1,0 +1,87 @@
+{
+     "BowWeapons": {
+        "TotalCount": 5,
+        "Weapons": [
+            {
+                "Name": "WEAPON_THUNDERBOW_NAME",
+                "Damage": 16.0,
+                "Cooldown": 0.65,
+                "Range": 6.0,
+                "Type": "Bow",
+                "Rarity": "Common",
+                "Cost": 350,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.10},
+                    {"StatType": "PickupRange", "Value": 0.15}
+                ]
+            },
+            {
+                "Name": "WEAPON_JADEBOW_NAME",
+                "Damage": 20.0,
+                "Cooldown": 0.7,
+                "Range": 6.5,
+                "Type": "Bow",
+                "Rarity": "Rare",
+                "Cost": 700,
+                "Buffs": [
+                    {"StatType": "DamageMultiplier", "Value": 0.10},
+                    {"StatType": "AttackSpeed", "Value": 0.08},
+                    {"StatType": "PickupRange", "Value": 0.20}
+                ]
+            },
+            {
+                "Name": "WEAPON_SPIRITBOW_NAME",
+                "Damage": 24.0,
+                "Cooldown": 0.68,
+                "Range": 7.0,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 1600,
+                "Buffs": [
+                    {"StatType": "LifeSteal", "Value": 0.08},
+                    {"StatType": "AttackSpeed", "Value": 0.12},
+                    {"StatType": "PickupRange", "Value": 0.25}
+                ],
+                "Effects": [
+                    {"EffectType": "Slow", "Value": 0.30, "Duration": 1.5, "TickRate": 0.0}
+                ]
+            },
+            {
+                "Name": "WEAPON_HEAVENLYFIRE_NAME",
+                "Damage": 26.0,
+                "Cooldown": 0.65,
+                "Range": 7.0,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 1800,
+                "Buffs": [
+                    {"StatType": "CriticalDamage", "Value": 0.20},
+                    {"StatType": "AttackSpeed", "Value": 0.15},
+                    {"StatType": "DamageMultiplier", "Value": 0.10},
+                    {"StatType": "PickupRange", "Value": 0.25}
+                ],
+                "Effects": [
+                    {"EffectType": "Burn", "Value": 0.30, "Duration": 3.0, "TickRate": 0.5}
+                ]
+            },
+            {
+                "Name": "WEAPON_DARKMOON_NAME",
+                "Damage": 28.0,
+                "Cooldown": 0.68,
+                "Range": 7.2,
+                "Type": "Bow",
+                "Rarity": "Legendary",
+                "Cost": 2000,
+                "Buffs": [
+                    {"StatType": "AttackSpeed", "Value": 0.18},
+                    {"StatType": "DamageMultiplier", "Value": 0.15},
+                    {"StatType": "CriticalChance", "Value": 0.12},
+                    {"StatType": "PickupRange", "Value": 0.30}
+                ],
+                "Effects": [
+                    {"EffectType": "Poison", "Value": 0.30, "Duration": 2.5, "TickRate": 0.2}
+                ]
+            }
+        ]
+    }
+}

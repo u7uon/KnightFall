@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_SERPENTFANG_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_SERPENTFANG_NAME
+  Damage: 11
+  Icon: {fileID: 6957678442570674726, guid: ce32b5cf3af0a954a9b3f80ef4388b0e, type: 3}
+  Cooldown: 0.92
+  Range: 2.7
+  Type: 1
+  Rarity: 0
+  Cost: 132
+  Buffs:
+  - Type: 1
+    Value: 0.04
+    BuffType: 0
+  - Type: 7
+    Value: 8
+    BuffType: 1
+  weaponPrefab: {fileID: 2103014126780098861, guid: 77e63490c2b9fb649bb4f68aa3c1d32e, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: RoseFang
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_ROSEFANG_NAME
+  Damage: 26
+  Icon: {fileID: -637176915849565265, guid: c2cfa9e6cd9156649a020d17413e5461, type: 3}
+  Cooldown: 0.38
+  Range: 2.7
+  Type: 1
+  Rarity: 3
+  Cost: 900
+  Buffs:
+  - Type: 2
+    Value: 0.18
+  - Type: 3
+    Value: 0.3
+  - Type: 4
+    Value: 0.08
+  weaponPrefab: {fileID: -8046690142087152860, guid: 7e7d78364f8038246a212434456aa087, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_FROSTPIKE_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_FROSTPIKE_NAME
+  Damage: 38.4
+  Icon: {fileID: 9002344256163182720, guid: 3cc2c2af8c637424aad6f5a742a06800, type: 3}
+  Cooldown: 0.68
+  Range: 3
+  Type: 1
+  Rarity: 3
+  Cost: 840
+  Buffs:
+  - Type: 0
+    Value: 0.14400001
+    BuffType: 0
+  - Type: 1
+    Value: 0.135
+    BuffType: 0
+  - Type: 5
+    Value: 16.2
+    BuffType: 1
+  - Type: 7
+    Value: 36
+    BuffType: 1
+  - Type: 10
+    Value: 0.107999995
+    BuffType: 0
+  weaponPrefab: {fileID: 7910556157059161891, guid: 0398a249db6689b4e9888e5c83af1bb3, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

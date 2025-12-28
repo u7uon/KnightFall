@@ -1,0 +1,71 @@
+{
+    "TotalCount": 10,
+    "ExportDate": "2025-12-20 10:41:37",
+    "Weapons": [
+        {
+            "Name": "WEAPON_SHADOWSTRIKE_NAME",
+            "Damage": 11.0,
+            "Cooldown": 0.45,
+            "Range": 5.5,
+            "Type": "Bow",
+            "Rarity": "Common",
+            "Cost": 320,
+            "IconPath": "Assets/Sprites/Weapon/Bow/ShadowStrike.png",
+            "WeaponPrefabPath": "Assets/Prefabs/Weapons/Bow/ShadowStrike.prefab",
+            "SpecialEffect": "SpecialEffect",
+            "Buffs": [
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.05
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.06
+                },
+                {
+                    "StatType": "PickupRange",
+                    "Value": 0.5
+                }
+            ],
+            "Effects": []
+        },
+        {
+            "Name": "WEAPON_VOIDWEAVER_NAME",
+            "Damage": 18.0,
+            "Cooldown": 0.5,
+            "Range": 6.5,
+            "Type": "Crossbow",
+            "Rarity": "Uncommon",
+            "Cost": 580,
+            "IconPath": "Assets/Sprites/Weapon/Crossbow/VoidWeaver.png",
+            "WeaponPrefabPath": "Assets/Prefabs/Weapons/Crossbow/VoidWeaver.prefab",
+            "SpecialEffect": "SpecialEffect",
+            "Buffs": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.1
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.09
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.11
+                },
+                {
+                    "StatType": "PickupRange",
+                    "Value": 0.7
+                }
+            ],
+            "Effects": [
+                {
+                    "EffectType": "Stun",
+                    "Value": 1.0,
+                    "Duration": 0.4,
+                    "TickRate": 0.0
+                }
+            ]
+        }
+    ]
+}

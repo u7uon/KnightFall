@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cee931299c2b643a80bc09a17a695d, type: 3}
+  m_Name: ITEM_FIRE_BOMB_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  Name: ITEM_FIREBOMB_NAME
+  Icon: {fileID: 1454364025256547659, guid: 70b40bb34f7266e46832136d6125d61d, type: 3}
+  Rarity: 3
+  Price: 340
+  Description: 
+  StatModifiers:
+  - Type: 0
+    Value: 0.28
+    BuffType: 0
+  - Type: 3
+    Value: 0.2
+    BuffType: 0
+  - Type: 1
+    Value: -0.12
+    BuffType: 0
+  SpecialEffect:
+    EffectName: 
+    Description: 
+  Category: 1

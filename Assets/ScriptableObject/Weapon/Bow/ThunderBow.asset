@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: ThunderBow
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_THUNDERBOW_NAME
+  Damage: 8
+  Icon: {fileID: 8869067786428223363, guid: 92ffa95737f2ef44a9c023591fff11f8, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 2
+  Rarity: 0
+  Cost: 125
+  Buffs:
+  - Type: 1
+    Value: 0.063999996
+    BuffType: 0
+  - Type: 12
+    Value: 0.4
+    BuffType: 1
+  weaponPrefab: {fileID: -1683331267838170588, guid: ad57425771cfb9640bd976619a786cf4, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 64664a7a6a3a68249b1428088d85e9a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 212180009385581222
+    second: PoisonBoom_0
+  - first:
+      213: -7077034912897702668
+    second: PoisonBoom_1
+  - first:
+      213: 4987756246801854048
+    second: PoisonBoom_2
+  - first:
+      213: 8660418099702372719
+    second: PoisonBoom_3
+  - first:
+      213: 6571460185107842356
+    second: PoisonBoom_4
+  - first:
+      213: -4430710766189446231
+    second: PoisonBoom_5
+  - first:
+      213: -7878769988652735438
+    second: PoisonBoom_6
+  - first:
+      213: 8726140829540663487
+    second: PoisonBoom_7
+  - first:
+      213: -6060981102702212343
+    second: PoisonBoom_8
+  - first:
+      213: 2548960015330498235
+    second: PoisonBoom_9
+  - first:
+      213: -1480298791884136740
+    second: PoisonBoom_10
+  - first:
+      213: -1142340815985868242
+    second: PoisonBoom_11
+  - first:
+      213: -4279532794353835218
+    second: PoisonBoom_12
+  - first:
+      213: -8682181454894754260
+    second: PoisonBoom_13
+  - first:
+      213: -7963707120555102419
+    second: PoisonBoom_14
+  - first:
+      213: 5944064793439068673
+    second: PoisonBoom_15
+  - first:
+      213: 7590326672324806010
+    second: PoisonBoom_16
+  - first:
+      213: 1593991753668320650
+    second: PoisonBoom_17
+  - first:
+      213: -3839941361732793555
+    second: PoisonBoom_18
+  - first:
+      213: -7276751706385704437
+    second: PoisonBoom_19
+  - first:
+      213: 6928097909623477799
+    second: PoisonBoom_20
+  - first:
+      213: 442435274529378170
+    second: PoisonBoom_21
+  - first:
+      213: -5006103427948928441
+    second: PoisonBoom_22
+  - first:
+      213: -5179699017751951595
+    second: PoisonBoom_23
+  - first:
+      213: 2326939252017382866
+    second: PoisonBoom_24
+  - first:
+      213: -630303624805469883
+    second: PoisonBoom_25
+  - first:
+      213: 2471641386845634224
+    second: PoisonBoom_26
+  - first:
+      213: 3312013871469198901
+    second: PoisonBoom_27
+  - first:
+      213: -518231703480522358
+    second: PoisonBoom_28
+  - first:
+      213: 4205245768804672905
+    second: PoisonBoom_29
+  - first:
+      213: 3176030421699327057
+    second: PoisonBoom_30
+  - first:
+      213: 3658217176048767651
+    second: PoisonBoom_31
+  - first:
+      213: -6493573026615473947
+    second: PoisonBoom_32
+  - first:
+      213: -515895593337044122
+    second: PoisonBoom_33
+  - first:
+      213: 2133897825375624561
+    second: PoisonBoom_34
+  - first:
+      213: -8389709569783225023
+    second: PoisonBoom_35
+  - first:
+      213: 1372704287557064023
+    second: PoisonBoom_36
+  - first:
+      213: 3524675914677361669
+    second: PoisonBoom_37
+  - first:
+      213: 7007064220035606819
+    second: PoisonBoom_38
+  - first:
+      213: 3065768209052297519
+    second: PoisonBoom_39
+  - first:
+      213: -2931089392054741606
+    second: PoisonBoom_40
+  - first:
+      213: 8085098157595600727
+    second: PoisonBoom_41
+  - first:
+      213: 9220624932184899817
+    second: PoisonBoom_42
+  - first:
+      213: -4986988052918382370
+    second: PoisonBoom_43
+  - first:
+      213: -1194491557130845709
+    second: PoisonBoom_44
+  - first:
+      213: -8711600160134592694
+    second: PoisonBoom_45
+  - first:
+      213: -7214369811655601168
+    second: PoisonBoom_46
+  - first:
+      213: -6329013174711882692
+    second: PoisonBoom_47
+  - first:
+      213: 3229580883607625926
+    second: PoisonBoom_48
+  - first:
+      213: 5555226202412456446
+    second: PoisonBoom_49
+  - first:
+      213: -5572194617374894427
+    second: PoisonBoom_50
+  - first:
+      213: -6637565603817643530
+    second: PoisonBoom_51
+  - first:
+      213: -8597231819344409466
+    second: PoisonBoom_52
+  - first:
+      213: -4145139354395624718
+    second: PoisonBoom_53
+  - first:
+      213: -8652617811244843523
+    second: PoisonBoom_54
+  - first:
+      213: -4176010484291483513
+    second: PoisonBoom_55
+  - first:
+      213: 6308543174695829090
+    second: PoisonBoom_56
+  - first:
+      213: -4730525771399535093
+    second: PoisonBoom_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoisonBoom_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0cdc4f9da791970800000000000000
+      internalID: 8726140829540663487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422d3ca47fb68ab0800000000000000
+      internalID: -5006103427948928441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 14
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e9cd42f8bb88458affb51289045e6
+      internalID: 212180009385581222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9591067c2fcb4c4f99a3f19b33834f4
+      internalID: -7077034912897702668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 11
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ba526263ed044391383c07b967d61
+      internalID: 4987756246801854048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6545c018355731449d7661a17db7af2
+      internalID: 8660418099702372719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d166fe9259244db3c697a14996a27
+      internalID: 6571460185107842356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBoom_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 4
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c250d514d74d44458e886bf84bfa7c9
+      internalID: -4430710766189446231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89646e39a51089b45bfcc4d0340269ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoisonBoom_0: 212180009385581222
+      PoisonBoom_1: -7077034912897702668
+      PoisonBoom_10: -1480298791884136740
+      PoisonBoom_11: -1142340815985868242
+      PoisonBoom_12: -4279532794353835218
+      PoisonBoom_13: -8682181454894754260
+      PoisonBoom_14: -7963707120555102419
+      PoisonBoom_15: 5944064793439068673
+      PoisonBoom_16: 7590326672324806010
+      PoisonBoom_17: 1593991753668320650
+      PoisonBoom_18: -3839941361732793555
+      PoisonBoom_19: -7276751706385704437
+      PoisonBoom_2: 4987756246801854048
+      PoisonBoom_20: 6928097909623477799
+      PoisonBoom_21: 442435274529378170
+      PoisonBoom_22: -5006103427948928441
+      PoisonBoom_23: -5179699017751951595
+      PoisonBoom_24: 2326939252017382866
+      PoisonBoom_25: -630303624805469883
+      PoisonBoom_26: 2471641386845634224
+      PoisonBoom_27: 3312013871469198901
+      PoisonBoom_28: -518231703480522358
+      PoisonBoom_29: 4205245768804672905
+      PoisonBoom_3: 8660418099702372719
+      PoisonBoom_30: 3176030421699327057
+      PoisonBoom_31: 3658217176048767651
+      PoisonBoom_32: -6493573026615473947
+      PoisonBoom_33: -515895593337044122
+      PoisonBoom_34: 2133897825375624561
+      PoisonBoom_35: -8389709569783225023
+      PoisonBoom_36: 1372704287557064023
+      PoisonBoom_37: 3524675914677361669
+      PoisonBoom_38: 7007064220035606819
+      PoisonBoom_39: 3065768209052297519
+      PoisonBoom_4: 6571460185107842356
+      PoisonBoom_40: -2931089392054741606
+      PoisonBoom_41: 8085098157595600727
+      PoisonBoom_42: 9220624932184899817
+      PoisonBoom_43: -4986988052918382370
+      PoisonBoom_44: -1194491557130845709
+      PoisonBoom_45: -8711600160134592694
+      PoisonBoom_46: -7214369811655601168
+      PoisonBoom_47: -6329013174711882692
+      PoisonBoom_48: 3229580883607625926
+      PoisonBoom_49: 5555226202412456446
+      PoisonBoom_5: -4430710766189446231
+      PoisonBoom_50: -5572194617374894427
+      PoisonBoom_51: -6637565603817643530
+      PoisonBoom_52: -8597231819344409466
+      PoisonBoom_53: -4145139354395624718
+      PoisonBoom_54: -8652617811244843523
+      PoisonBoom_55: -4176010484291483513
+      PoisonBoom_56: 6308543174695829090
+      PoisonBoom_57: -4730525771399535093
+      PoisonBoom_58: 591371121
+      PoisonBoom_6: -7878769988652735438
+      PoisonBoom_7: 8726140829540663487
+      PoisonBoom_8: -6060981102702212343
+      PoisonBoom_9: 2548960015330498235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

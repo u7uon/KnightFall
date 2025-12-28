@@ -1,0 +1,882 @@
+{
+    "TotalCount": 30,
+    "ExportDate": "2025-12-27 15:10:48",
+    "FilteredCategory": "Accessory",
+    "Items": [
+        {
+            "Name": "ITEM_ANCIENTAMULET_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_ANCIENTAMULET_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Ancient Amulet.png",
+            "StatModifiers": [
+                {
+                    "StatType": "MagicResist",
+                    "Value": 6.9,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 0.5,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "DodgeChance",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_ANCIENTKEY_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_ANCIENTKEY_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Ancient Key.png",
+            "StatModifiers": [
+                {
+                    "StatType": "Luck",
+                    "Value": 4.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_BOMB_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_BOMB_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Bomb.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.13,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": -0.06,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_FLINTLOCKPISTOL_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_FLINTLOCKPISTOL_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Flintlock Pistol.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.11,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.07,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": -0.05,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_ANCIENTTORCH_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/ANCIENTTORCH.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 3.5,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.02,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_BLOODVIAL_NAME",
+            "Price": 970,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Blood Vial.png",
+            "StatModifiers": [
+                {
+                    "StatType": "LifeSteal",
+                    "Value": 0.06,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.1,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": -11.5,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_CURSEDRELIC_NAME",
+            "Price": 970,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/CURSEDRELIC.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.18,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalDamage",
+                    "Value": 0.11,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "HealthRegen",
+                    "Value": -0.3,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Armor",
+                    "Value": -5.8,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_DARKCHARM_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/DARKCHARM.png",
+            "StatModifiers": [
+                {
+                    "StatType": "CriticalDamage",
+                    "Value": 0.16,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "LifeSteal",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": -8.6,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_DRAGONSCALE_NAME",
+            "Price": 970,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/DRAGONSCALE.png",
+            "StatModifiers": [
+                {
+                    "StatType": "Armor",
+                    "Value": 20.2,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 17.3,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 25.9,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": -0.05,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_EMERALDPENDANT_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/EMERALDPENDANT.png",
+            "StatModifiers": [
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 0.8,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 12.8,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 8.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 6.9,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_ENCHANTEDDAGGER_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/ENCHANTEDDAGGER.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.03,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.02,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_FIREBOMB_NAME",
+            "Price": 970,
+            "Rarity": "Epic",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Fire Bomb .png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.18,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalDamage",
+                    "Value": 0.13,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": -0.07,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_FLAMEESSENCE_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/FLAMEESSENCE.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.07,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.03,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": -2.9,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_GOLDENRING_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/GOLDENRING.png",
+            "StatModifiers": [
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.1,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 8.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "ExpMultiplier",
+                    "Value": 0.06,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_HEALTHPOTION_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/HealthPotion.png",
+            "StatModifiers": [
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 0.3,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 5.8,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_HOLYWATER_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/HolyWater.png",
+            "StatModifiers": [
+                {
+                    "StatType": "MagicResist",
+                    "Value": 8.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Armor",
+                    "Value": 6.9,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 0.3,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_MAGICSCROLL_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/MAGICSCROLL.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.06,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 4.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 2.9,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_MANAPOTION_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Mana Potion.png",
+            "StatModifiers": [
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.03,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_MYSTICESSENCE_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Mystic Essence.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.1,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 10.4,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 6.9,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_MYSTICORB_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/MYSTICORB.png",
+            "StatModifiers": [
+                {
+                    "StatType": "MagicResist",
+                    "Value": 10.4,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 5.8,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_NATUREELIXIR_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Nature Elixir.png",
+            "StatModifiers": [
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 0.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 5.8,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 11.5,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_PHOENIXFEATHER_NAME",
+            "Price": 1640,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/PHOENIXFEATHER.png",
+            "StatModifiers": [
+                {
+                    "StatType": "HealthRegen",
+                    "Value": 1.4,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 34.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 14.4,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.07,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_POISONFLASK_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/Poison Flask.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.06,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MagicResist",
+                    "Value": 1.9,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "HealthRegen",
+                    "Value": -0.11,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_ROYALCROWN_NAME",
+            "Price": 1640,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/ROYALCROWN.png",
+            "StatModifiers": [
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.23,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "ExpMultiplier",
+                    "Value": 0.14,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 17.3,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 20.2,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_SHADOWSHARD_NAME",
+            "Price": 1640,
+            "Rarity": "Legendary",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/SHADOWSHARD.png",
+            "StatModifiers": [
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.14,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalDamage",
+                    "Value": 0.23,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.11,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "MaxHealth",
+                    "Value": -16.1,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_VENOMBLADE_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "",
+            "IconPath": "Assets/Sprites/Item/VENOMBLADE.png",
+            "StatModifiers": [
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.08,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "AttackSpeed",
+                    "Value": 0.03,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "CriticalChance",
+                    "Value": 0.05,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "HealthRegen",
+                    "Value": -0.2,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_LUCKYCOIN_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_LUCKYCOIN_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Lucky Coin.png",
+            "StatModifiers": [
+                {
+                    "StatType": "Luck",
+                    "Value": 5.8,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.02,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_PIRATEHAT_NAME",
+            "Price": 160,
+            "Rarity": "Common",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_PIRATEHAT_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Pirate Hat .png",
+            "StatModifiers": [
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.19,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 3.2,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "Armor",
+                    "Value": -1.7,
+                    "BuffType": "Flat"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_POISONBOTTLE_NAME",
+            "Price": 260,
+            "Rarity": "Uncommon",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_POISONBOTTLE_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Poison Bottle.png",
+            "StatModifiers": [
+                {
+                    "StatType": "MaxHealth",
+                    "Value": 2.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "DamageMultiplier",
+                    "Value": 0.03,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        },
+        {
+            "Name": "ITEM_TREASUREMAP_NAME",
+            "Price": 490,
+            "Rarity": "Rare",
+            "Category": "Accessory",
+            "Description": "ITEM_ITEM_TREASUREMAP_NAME_DESC",
+            "IconPath": "Assets/Sprites/Item/Treasure Map.png",
+            "StatModifiers": [
+                {
+                    "StatType": "GoldMultiplier",
+                    "Value": 0.08,
+                    "BuffType": "Percentage"
+                },
+                {
+                    "StatType": "Luck",
+                    "Value": 9.6,
+                    "BuffType": "Flat"
+                },
+                {
+                    "StatType": "ExpMultiplier",
+                    "Value": 0.09,
+                    "BuffType": "Percentage"
+                }
+            ],
+            "SpecialEffect": {
+                "EffectName": "",
+                "Description": ""
+            }
+        }
+    ]
+}

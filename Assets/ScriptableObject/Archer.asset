@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba26e80f2ec939f46b9ca2e51779964c, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
+  Name: CLASS_ARCHER_NAME
+  Description: CLASS_ARCHER_DESCRIPTION
+  Icon: {fileID: 5420657165879536120, guid: 6fda53b3604304d4aa7f1fd62f0e4aeb, type: 3}
+  characterPrefab: {fileID: 8344872678603291753, guid: 8a72fbbe70e8c0a4a90215e9a69599c5, type: 3}
+  damageMultiplier: 0.88
+  AttackSpeed: 1.3
+  CriticalChance: 0.06
+  CriticalDamage: 1.55
+  LifeSteal: 0
+  Armor: 3
+  MagicResist: 10
+  MaxHealth: 90
+  HealthRegen: 0.1
+  DodgeChance: 0.02
+  MoveSpeed: 5
+  Luck: 0
+  PickupRange: 1
+  ExpMultiplier: 1
+  GoldMultiplier: 1
+  Class: 2

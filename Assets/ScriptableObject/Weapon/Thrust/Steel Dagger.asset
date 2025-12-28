@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: Steel Dagger
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_STEELDAGGER_NAME
+  Damage: 10.4
+  Icon: {fileID: 8279658575030754756, guid: 14afdd4ff2ecc974b93b50d7eb4429fb, type: 3}
+  Cooldown: 0.52
+  Range: 2.7
+  Type: 1
+  Rarity: 1
+  Cost: 221
+  Buffs:
+  - Type: 0
+    Value: 0.051199995
+    BuffType: 0
+  - Type: 5
+    Value: 6.4
+    BuffType: 1
+  weaponPrefab: {fileID: -5143303720184184191, guid: 55a00a869545c7d4c98b471cae48ba54, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

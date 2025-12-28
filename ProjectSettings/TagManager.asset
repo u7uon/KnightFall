@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerBullet
+  - Enemy
+  - Energy
+  - Usb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EnemyBody
+  - Map
+  - PlayerBody
+  - PlayerHitBox
+  - EnemyHitBox
+  - PlayerBullet
+  - EnemyBullet
+  - 
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 92216081
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 1551824671
+    locked: 0
+  - name: Player
+    uniqueID: 754531751
+    locked: 0
+  - name: Gun
+    uniqueID: 2854906201
+    locked: 0
+  - name: ForcweMap
+    uniqueID: 1145176995
+    locked: 0
+  - name: GameU
+    uniqueID: 3030640413
+    locked: 0
+  m_RenderingLayers:
+  - Default

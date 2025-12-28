@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_MOONLIGHTSABER_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_MOONLIGHTSABER_NAME
+  Damage: 10
+  Icon: {fileID: -2008427557330335961, guid: 4c934a27609fc9f47886ed7afc021780, type: 3}
+  Cooldown: 0.97
+  Range: 3
+  Type: 0
+  Rarity: 0
+  Cost: 132
+  Buffs:
+  - Type: 1
+    Value: 0.063999996
+    BuffType: 0
+  - Type: 7
+    Value: 9.6
+    BuffType: 1
+  weaponPrefab: {fileID: 3149749359867947857, guid: 0ba6f3d7cc87b89448be61f408cbb17f, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

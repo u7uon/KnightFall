@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b56198cf5320cd4f8078f3da82688bd, type: 3}
+  m_Name: WEAPON_IRONPIERCER_NAME
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponStats
+  Name: WEAPON_IRONPIERCER_NAME
+  Damage: 8
+  Icon: {fileID: -8471532484696407613, guid: 2a7f1c71d9a1a774299307e0c29358a0, type: 3}
+  Cooldown: 0.8
+  Range: 5
+  Type: 0
+  Rarity: 0
+  Cost: 180
+  Buffs:
+  - Type: 0
+    Value: 0.06
+    BuffType: 0
+  - Type: 1
+    Value: 0.05
+    BuffType: 0
+  - Type: 12
+    Value: 0.5
+    BuffType: 0
+  weaponPrefab: {fileID: 8309482313171050748, guid: 2a22aa9c3fd172342ba7432875ba7f4b, type: 3}
+  specialEffect:
+    EffectName: 
+    Description: 
+  effects: []

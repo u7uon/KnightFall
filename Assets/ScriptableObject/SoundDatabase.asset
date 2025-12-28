@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbac4d2098c851848b20bef51512b131, type: 3}
+  m_Name: SoundDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SoundDatabase
+  sfxs:
+  - key: click
+    clip: {fileID: 8300000, guid: 0a210282729dfa245a7811fee2b21abe, type: 3}
+  - key: health_up
+    clip: {fileID: 8300000, guid: 540a8746ce3b49047835c5726dccafdf, type: 3}
+  - key: sword_attack
+    clip: {fileID: 8300000, guid: 64001ee9131d71b458b1f557aae750e0, type: 3}
+  - key: bow_attack
+    clip: {fileID: 8300000, guid: c80fe698ca56d8343983eb65afe08cc4, type: 3}
+  - key: coin_collect
+    clip: {fileID: 8300000, guid: 989da1e0b98d25344bb5a5bae675c6cf, type: 3}
+  - key: shop
+    clip: {fileID: 8300000, guid: ed18b13444e076d4498850f4cdd700ac, type: 3}
+  - key: healthUp
+    clip: {fileID: 8300000, guid: 540a8746ce3b49047835c5726dccafdf, type: 3}
+  - key: hurt
+    clip: {fileID: 8300000, guid: cc23f29afed88844391fdfe538b2fdda, type: 3}
